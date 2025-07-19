@@ -31,7 +31,7 @@ script.js – Sound playback and interaction logic
 <img width="1878" height="892" alt="image" src="https://github.com/user-attachments/assets/158c67bd-f7fc-48bf-825c-9b9937258e2d" />
 
 
-🌐 Live Demo: 
+🌐 Live Demo: https://simarpreetsaini.github.io/Piano/
 
 📜 License: MIT – Open for learning, sharing, and remixing
 🤝 Contributions: Pull requests welcome! Let’s build something musical together 🎶
